@@ -2,5 +2,5 @@
 2. blue
 3. green
 4. magenta
-5. yellow
+5. orange
 6. black
