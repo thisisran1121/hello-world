@@ -1,6 +1,6 @@
-1. red
-2. blue
-3. green
-4. magenta
-5. orange
-6. black
+1. Red
+2. Blue
+3. Green
+4. Magenta
+5. Yellow
+6. Black
